@@ -22,21 +22,8 @@ h1 {
     fade: left;
 }
 
-/*.image-gallery02 {
-    display: block;
-    margin-left: 30px;
-    margin-right: 40px;
-	float: right;*/
-}
-
 #text01 {
 	margin-top: 40px;
-	margin-left: 40px;
-	margin-right: 40px;
-	float: auto;
-}
-
-ul {
 	margin-left: 40px;
 	margin-right: 40px;
 	float: auto;
@@ -50,6 +37,21 @@ ul {
 .social-media {
 	display: inline-block;
 	position: fixed;
-	top: 10px;
+	bottom: 10px;
 	border: 2px default blue;
+    margin-right: 20px;
+}
+
+nav {
+    float: left;
+    width: 25%;
+}
+
+.content {
+    float: right;
+    width: 75%;
+}
+
+ul {
+    list-style-type: none;
 }
