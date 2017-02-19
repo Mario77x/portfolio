@@ -32,7 +32,7 @@ nav {
 
 .text {
 	margin-top: 50px;
-	float: left;
+	clear: left;
 }
 
 .content {
